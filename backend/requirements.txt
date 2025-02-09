@@ -1,0 +1,10 @@
+fastapi	
+uvicorn	
+faiss-cpu
+openai	
+pydantic
+speechrecognition	
+pyttsx3	
+python-dotenv	
+streamlit	
+requests	
