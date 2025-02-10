@@ -7,4 +7,5 @@ speechrecognition
 pyttsx3	
 python-dotenv	
 streamlit	
-requests	
+requests
+groq	
