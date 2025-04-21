@@ -1,2 +1,1 @@
 # GDSC_ml
-Couldn't explain the code which was mostly Chatgpt-ed  due to time constraints but tried understanding some functions of it. Also there was a model access issue which I was trying to solve but couldn't do it till the end so only the frontend site is deployed that too locally but it failed to use all models - gemma, llama and mixtral which I was using. I was also using OpenAI but couldn't due to some quota limits error. Due to this I couldn't complete it
